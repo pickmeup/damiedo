@@ -1,3 +1,1 @@
-Esto es un ejemplo barato
-
-<a href="damiedodoc.md">damiedo</a>
+レポート料を生成するために<b>SAT</b>税務管理システムのためのアプリ
